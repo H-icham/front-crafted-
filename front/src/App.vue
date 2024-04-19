@@ -8,6 +8,7 @@ import Header from '@/components/Header.vue'
 import ProductsList from '@/views/ProductsList.vue'
 import Login from '@/components/Login.vue'
 import Cart from '@/components/Cart.vue'
+import Validation from '@/components/Validation.vue'
 </script>
 
 <template>
